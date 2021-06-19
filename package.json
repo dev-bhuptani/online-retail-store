@@ -31,5 +31,13 @@
     "nodemailer-sendgrid-transport": "^0.2.0",
     "pug": "^2.0.3",
     "sequelize": "^5.0.0-beta.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-bhuptani/Online-Retail-Store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dev-bhuptani/Online-Retail-Store/issues"
+  },
+  "homepage": "https://github.com/dev-bhuptani/Online-Retail-Store#readme"
 }
